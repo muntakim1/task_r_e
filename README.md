@@ -19,5 +19,9 @@ Python modules
 ## Commands
 
 ```
-python train.py
+git pull 
+
+cd ./task_r_e
+
+jupyter notebook
 ```
