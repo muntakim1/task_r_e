@@ -19,7 +19,7 @@ Python modules
 ## Commands
 
 ```
-git pull 
+git pull https://github.com/muntakim1/task_r_e.git
 
 cd ./task_r_e
 
